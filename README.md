@@ -1,4 +1,4 @@
-# desafiodiourlsegura
+# desafio dio url segura
 Desafio do Bootcamp de Cibersegurança promovido pela DIO. O objetivo é criar um script nas linguagens Python, JavaScript, Java C# e Kotlin que simule uma verificação basica de segurança em uma URL.
 
 Entrada: Para esse desafio, a entrada esperada é a URL que o usuário deseja verificar. A URL pode ser inserida como uma string de texto pelo usuário.
